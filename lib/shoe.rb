@@ -14,9 +14,4 @@ class Shoe
     puts ""
     @condition = "new"
   end
-
-
-
-
-
 end
