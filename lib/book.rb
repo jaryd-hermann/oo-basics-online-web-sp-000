@@ -9,6 +9,6 @@ class Book
   attr_accessor :genre
 
   def turn_page
-    @page_count +=1
+    @page_count += 1
   end
 end
