@@ -10,6 +10,11 @@ class Shoe
   attr_accessor :material
   attr_accessor :condition
 
+  def cobble
+    puts ""
+    @condition = "new"
+  end
+
 
 
 
