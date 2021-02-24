@@ -9,6 +9,6 @@ class Book
   attr_accessor :genre
 
   def turn_page
-    @page_count += 1
+    puts "Flipping the page...wow, you read fast!"
   end
 end
